@@ -4,7 +4,7 @@ A Python GUI application built with Tkinter, designed to provide a simple and us
 # Trade Panel
 
 #### 🎥 Video Demo
-<URL https://www.aparat.com/v/dbzm9kj>
+<URL https://www.aparat.com/v/dbzm9kj >
 
 ---
 
